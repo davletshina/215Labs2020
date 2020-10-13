@@ -1,0 +1,13 @@
+C:\Users\mafis\source\repos\Журнал студентов\bin\Debug\netcoreapp3.1\Журнал студентов.exe
+C:\Users\mafis\source\repos\Журнал студентов\bin\Debug\netcoreapp3.1\Журнал студентов.deps.json
+C:\Users\mafis\source\repos\Журнал студентов\bin\Debug\netcoreapp3.1\Журнал студентов.runtimeconfig.json
+C:\Users\mafis\source\repos\Журнал студентов\bin\Debug\netcoreapp3.1\Журнал студентов.runtimeconfig.dev.json
+C:\Users\mafis\source\repos\Журнал студентов\bin\Debug\netcoreapp3.1\Журнал студентов.dll
+C:\Users\mafis\source\repos\Журнал студентов\bin\Debug\netcoreapp3.1\Журнал студентов.pdb
+C:\Users\mafis\source\repos\Журнал студентов\obj\Debug\netcoreapp3.1\Журнал студентов.csprojAssemblyReference.cache
+C:\Users\mafis\source\repos\Журнал студентов\obj\Debug\netcoreapp3.1\Журнал студентов.AssemblyInfoInputs.cache
+C:\Users\mafis\source\repos\Журнал студентов\obj\Debug\netcoreapp3.1\Журнал студентов.AssemblyInfo.cs
+C:\Users\mafis\source\repos\Журнал студентов\obj\Debug\netcoreapp3.1\Журнал студентов.csproj.CoreCompileInputs.cache
+C:\Users\mafis\source\repos\Журнал студентов\obj\Debug\netcoreapp3.1\Журнал студентов.dll
+C:\Users\mafis\source\repos\Журнал студентов\obj\Debug\netcoreapp3.1\Журнал студентов.pdb
+C:\Users\mafis\source\repos\Журнал студентов\obj\Debug\netcoreapp3.1\Журнал студентов.genruntimeconfig.cache
