@@ -1,0 +1,13 @@
+C:\Users\nisht\source\repos\Student1\Student1\bin\Debug\netcoreapp3.1\Student1.exe
+C:\Users\nisht\source\repos\Student1\Student1\bin\Debug\netcoreapp3.1\Student1.deps.json
+C:\Users\nisht\source\repos\Student1\Student1\bin\Debug\netcoreapp3.1\Student1.runtimeconfig.json
+C:\Users\nisht\source\repos\Student1\Student1\bin\Debug\netcoreapp3.1\Student1.runtimeconfig.dev.json
+C:\Users\nisht\source\repos\Student1\Student1\bin\Debug\netcoreapp3.1\Student1.dll
+C:\Users\nisht\source\repos\Student1\Student1\bin\Debug\netcoreapp3.1\Student1.pdb
+C:\Users\nisht\source\repos\Student1\Student1\obj\Debug\netcoreapp3.1\Student1.csprojAssemblyReference.cache
+C:\Users\nisht\source\repos\Student1\Student1\obj\Debug\netcoreapp3.1\Student1.AssemblyInfoInputs.cache
+C:\Users\nisht\source\repos\Student1\Student1\obj\Debug\netcoreapp3.1\Student1.AssemblyInfo.cs
+C:\Users\nisht\source\repos\Student1\Student1\obj\Debug\netcoreapp3.1\Student1.csproj.CoreCompileInputs.cache
+C:\Users\nisht\source\repos\Student1\Student1\obj\Debug\netcoreapp3.1\Student1.dll
+C:\Users\nisht\source\repos\Student1\Student1\obj\Debug\netcoreapp3.1\Student1.pdb
+C:\Users\nisht\source\repos\Student1\Student1\obj\Debug\netcoreapp3.1\Student1.genruntimeconfig.cache
